@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .env
+# SSH keys
+mykey.txt
+mykey.txt.pub
